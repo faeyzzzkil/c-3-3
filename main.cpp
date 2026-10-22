@@ -38,7 +38,7 @@ int main() {
 
     } while(ulang == "y" || ulang == "Y");
 
-    system("pause")
+    system("pause");
 
     return 0;
 }
